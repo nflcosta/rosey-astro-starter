@@ -11,7 +11,7 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: left-right
-    background_color: '#ffffff'
+    background_color: '#FFFFF0'
     heading:
       heading_text: Keep what you need. Delete the rest.
       color: '#393939'
